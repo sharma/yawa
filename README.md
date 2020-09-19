@@ -1,2 +1,2 @@
 # yawa
-Yet Another Weather App
+Yet Another Weather App (written in Rust.)

@@ -12,3 +12,6 @@
 #Added by cargo
 
 /target
+
+#IntelliJ cruft
+/.idea
